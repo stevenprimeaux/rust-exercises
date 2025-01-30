@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 fn intro() -> &'static str {
     "I'm ready to learn about traits!"
 }
